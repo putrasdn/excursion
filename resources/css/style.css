@@ -1,3 +1,6 @@
+html {
+    font-family: verdana;
+}
 body {
     background-color: black;
     text-align: center;
@@ -17,6 +20,7 @@ h2 {
     font-family: verdana;
     font-weight: 300;
     font-size: 42px;
+    color: white;
 }
 h5 {
     font-family: verdana;
@@ -26,4 +30,13 @@ h5 {
 footer p {
     text-align: right;
     color: gray;
+}
+.phone {
+    padding-top: 20px;
+}
+img {
+    margin-bottom: 25px;
+}
+footer {
+    font-size: 25px;
 }
